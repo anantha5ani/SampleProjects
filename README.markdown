@@ -7,3 +7,5 @@ If there is anything you like, use or have a comment on please leave a comment o
 ## License and copyright
 
 All other files and directories are licensed under the [MIT](http://www.opensource.org/licenses/mit-license.php) unless explicitly stated.
+
+Edited for testing
